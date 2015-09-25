@@ -1,4 +1,4 @@
-# jummyshapefile
+# jummyShapefile
 
 ### Objectives
 Some text
