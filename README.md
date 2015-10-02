@@ -3,7 +3,7 @@
 jummyShapefile is a lightweight, Android compatible, Java library to work with (read for now) ESRI Shapefiles.
 
 ### Current version
-v0.1.0
+v0.2.0
 
 ### Objectives
  - Create a fast, Android compatible Java library to work with Shapefiles
